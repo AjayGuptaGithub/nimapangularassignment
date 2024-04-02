@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "fafb",
+      "firstName": "Ajay",
+      "lastName": "Gupta",
+      "mobile": 1234567890,
+      "email": "ajay@gamil.com",
+      "age": 23,
+      "image": "C:\\fakepath\\OIP (1).jpg",
+      "country": "India",
+      "state": "Delhi",
+      "addressType": "home",
+      "address1": "Pragati Nagar",
+      "address2": "Nallasopara",
+      "companyAddress1": null,
+      "companyAddress2": null,
+      "interests": [
+        "Dancing",
+        "Singing"
+      ]
+    }
+  ]
+}
